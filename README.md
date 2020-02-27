@@ -6,3 +6,5 @@ Haskell useful code
    - vim
    - tmux
 
+# Inspiration and Bibliography
+https://leanpub.com/haskell-cookbook/read
